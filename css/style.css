@@ -10,7 +10,7 @@
     background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(background.jpeg)
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(/images/background.jpeg)
 }
 
 .logo{
@@ -97,5 +97,10 @@ button{
   color: #fff;
   cursor: pointer;
   position: relative;
+  transition-duration: 0.4s; 
+}
 
+button:hover {
+  background-color: #9220a4;
+  color: #fff;
 }
