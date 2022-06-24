@@ -99,14 +99,3 @@ button{
   position: relative;
 
 }
-
-span{
-  background: #9220a4;
-  height: 100%;
-  width: 100%;
-  border-radius: 25px;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-   
-}
