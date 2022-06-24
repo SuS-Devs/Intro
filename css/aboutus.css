@@ -104,3 +104,12 @@ button:hover {
   background-color: #9220a4;
   color: #fff;
 }
+.about h2{
+  font-family: cursive;
+  padding: 10px;
+}
+
+.about p{
+  font-family: cursive;
+  padding: 10px;
+}
