@@ -95,19 +95,18 @@ button{
   border: 2px solid #9220a4;
   background: transparent;
   color: #fff;
-  cursor: ponter;
+  cursor: pointer;
   position: relative;
-  overflow: hidden;
+
 }
 
 span{
   background: #9220a4;
   height: 100%;
-  width: 0;
+  width: 100%;
   border-radius: 25px;
   position: absolute;
   left: 0;
   bottom: 0;
-  z-index
-  
+   
 }
